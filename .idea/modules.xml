@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDLservice/AIDLservice.iml" filepath="$PROJECT_DIR$/AIDLservice/AIDLservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentViewPager/FragmentViewPager.iml" filepath="$PROJECT_DIR$/FragmentViewPager/FragmentViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLDataBase/SQLDataBase.iml" filepath="$PROJECT_DIR$/SQLDataBase/SQLDataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar/actionbar.iml" filepath="$PROJECT_DIR$/actionbar/actionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/answer/answer.iml" filepath="$PROJECT_DIR$/answer/answer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentresolver/contentresolver.iml" filepath="$PROJECT_DIR$/contentresolver/contentresolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getcoordinatedemo/getcoordinatedemo.iml" filepath="$PROJECT_DIR$/getcoordinatedemo/getcoordinatedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteService/remoteService.iml" filepath="$PROJECT_DIR$/remoteService/remoteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchevent/touchevent.iml" filepath="$PROJECT_DIR$/touchevent/touchevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webo/webo.iml" filepath="$PROJECT_DIR$/webo/webo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlparser/xmlparser.iml" filepath="$PROJECT_DIR$/xmlparser/xmlparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmpp/xmpp.iml" filepath="$PROJECT_DIR$/xmpp/xmpp.iml" />
+    </modules>
+  </component>
+</project>

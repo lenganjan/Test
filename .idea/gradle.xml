@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\tools\android-studio\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AIDLservice" />
+            <option value="$PROJECT_DIR$/FragmentViewPager" />
+            <option value="$PROJECT_DIR$/SQLDataBase" />
+            <option value="$PROJECT_DIR$/actionbar" />
+            <option value="$PROJECT_DIR$/answer" />
+            <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/contentresolver" />
+            <option value="$PROJECT_DIR$/getcoordinatedemo" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/remoteService" />
+            <option value="$PROJECT_DIR$/touchevent" />
+            <option value="$PROJECT_DIR$/webo" />
+            <option value="$PROJECT_DIR$/xmlparser" />
+            <option value="$PROJECT_DIR$/xmpp" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AIDLservice" />
+            <option value="$PROJECT_DIR$/FragmentViewPager" />
+            <option value="$PROJECT_DIR$/SQLDataBase" />
+            <option value="$PROJECT_DIR$/actionbar" />
+            <option value="$PROJECT_DIR$/answer" />
+            <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/contentresolver" />
+            <option value="$PROJECT_DIR$/getcoordinatedemo" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/remoteService" />
+            <option value="$PROJECT_DIR$/touchevent" />
+            <option value="$PROJECT_DIR$/webo" />
+            <option value="$PROJECT_DIR$/xmlparser" />
+            <option value="$PROJECT_DIR$/xmpp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

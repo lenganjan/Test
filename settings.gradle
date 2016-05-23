@@ -1,0 +1,1 @@
+include ':FragmentViewPager', ':AIDLservice', ':remoteService', ':notification', ':SQLDataBase', ':contentprovider', ':contentresolver', ':webo', ':xmlparser', ':touchevent', ':answer', ':xmpp', ':getcoordinatedemo', ':actionbar'
